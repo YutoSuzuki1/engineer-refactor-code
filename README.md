@@ -57,3 +57,15 @@ ChatGPTなどAIサービスの利用は禁止しておりません。
 また、弊社コードチェック担当者もAIサービスを利用させていただく場合があります。
 
 AIサービスの利用は差し控えてもらいたいなどのご要望がある場合は、お気軽にお申し出ください。
+
+## Plugin
+・Save Action
+
+### Save Action(コードの自動整形)
+1. Android Studio にSave Actionプラグインをインストールします
+2. Android Studio > Preferences > Other Settings > SaveAction を開き、以下の設定を有効にします
+・Activate save actions on save
+・Activate save actions on shortcut
+・Optimize imports
+・Reformat file
+・Rearrange field and methods
